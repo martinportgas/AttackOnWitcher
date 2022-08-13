@@ -1,0 +1,7 @@
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\bin\Debug\AttackOnWitcher.exe.config
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\bin\Debug\AttackOnWitcher.exe
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\bin\Debug\AttackOnWitcher.pdb
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\obj\Debug\AttackOnWitcher.csproj.AssemblyReference.cache
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\obj\Debug\AttackOnWitcher.csproj.CoreCompileInputs.cache
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\obj\Debug\AttackOnWitcher.exe
+D:\DATA-Martin\Martin\App\net-projects\AttackOnWitcher\AttackOnWitcher\obj\Debug\AttackOnWitcher.pdb
